@@ -1,0 +1,38 @@
+body{
+    background-image: url('../img/geometry2.png');
+}
+#content{
+    max-width: 1440px;
+}
+.ave{
+    width: 150px;
+    height: auto;
+    margin: 0 auto;
+}
+.lh-5{
+    line-height: .5;
+}
+.lh-15{
+    line-height: 1.5;
+}
+.w100{
+    width: 100px;
+}
+.wauto{
+    width: calc(100% - 100px);
+}
+.mgb1{
+    margin-bottom: 1rem;
+}
+.h150{
+    height: 7.5rem;
+    overflow: hidden;
+}
+.h200{
+    height: 10rem;
+    overflow: hidden;
+}
+.describe{
+    font-size: 15px;
+    margin: 1em 0 0;
+}
